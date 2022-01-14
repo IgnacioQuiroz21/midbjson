@@ -1,0 +1,75 @@
+{
+  "bebidas": [
+    {
+      "idBebida": 1,
+      "nombre": "Lovely",
+      "color": "lila",
+      "sabor": "dulce",
+      "grados": "11"
+    },
+    {
+      "idBebida": 2,
+      "nombre": "pink",
+      "color": "rosado",
+      "sabor": "dulce",
+      "grados": "11"
+    },
+    {
+      "idBebida": 3,
+      "nombre": "Espumante Valdivieso Brut",
+      "color": "Dorado",
+      "sabor": "amargo",
+      "grados": "11.5"
+    }
+  ],
+  "formatos": [
+    {
+      "id": 1,
+      "idBebida": 1,
+      "cc": "750 cc",
+      "valor": "$5980"
+    },
+    {
+      "id": 2,
+      "idBebida": 1,
+      "cc": "500 cc",
+      "valor": "$2990"
+    },
+    {
+      "id": 3,
+      "idBebida": 1,
+      "cc": "1500 cc",
+      "valor": "$7990"
+    },
+    {
+      "id": 4,
+      "idBebida": 2,
+      "cc": "150 cc",
+      "valor": "$1990"
+    },
+    {
+      "id": 5,
+      "idBebida": 2,
+      "cc": "950 cc",
+      "valor": "$2990"
+    },
+    {
+      "id": 6,
+      "idBebida": 2,
+      "cc": "1500 cc",
+      "valor": "$15990"
+    },
+    {
+      "id": 7,
+      "idBebida": 3,
+      "cc": "1 LT",
+      "valor": "$5990"
+    },
+    {
+      "id": 8,
+      "idBebida": 3,
+      "cc": "3 LT",
+      "valor": "$15990"
+    }
+  ]
+}
