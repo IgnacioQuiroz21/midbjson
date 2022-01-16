@@ -1,75 +1,130 @@
 {
-  "bebidas": [
+  "alumnos": [
     {
-      "idBebida": 1,
-      "nombre": "Lovely",
-      "color": "lila",
-      "sabor": "dulce",
-      "grados": "11"
+      "alumId": 1,
+      "nombreAlumno": "Van Diesel",
+      "userId": "va.diessel",
+      "clave": "9999"
     },
     {
-      "idBebida": 2,
-      "nombre": "pink",
-      "color": "rosado",
-      "sabor": "dulce",
-      "grados": "11"
+      "alumId": 2,
+      "nombreAlumno": "Angelina Jolie",
+      "userId": "an.jolie",
+      "clave": "4321"
     },
     {
-      "idBebida": 3,
-      "nombre": "Espumante Travieso",
-      "color": "Dorado",
-      "sabor": "amargo",
-      "grados": "11.5"
-    }
-  ],
-  "formatos": [
-    {
-      "id": 1,
-      "idBebida": 1,
-      "cc": "750 cc",
-      "valor": "$5980"
+      "alumId": 3,
+      "nombreAlumno": "Camilo Araya",
+      "userId": "camil.arayas",
+      "clave": "1234"
     },
     {
-      "id": 2,
-      "idBebida": 1,
-      "cc": "500 cc",
-      "valor": "$2990"
+      "alumId": 4,
+      "nombreAlumno": "Camilo Basualto",
+      "userId": "ca.basualtog",
+      "clave": "1234"
     },
     {
-      "id": 3,
-      "idBebida": 1,
-      "cc": "1500 cc",
-      "valor": "$7990"
+      "alumId": 5,
+      "nombreAlumno": "Daniel Caro",
+      "userId": "danie.caroc",
+      "clave": "1234"
     },
     {
-      "id": 4,
-      "idBebida": 2,
-      "cc": "150 cc",
-      "valor": "$1990"
+      "alumId": 6,
+      "nombreAlumno": "Axel Christiansen",
+      "userId": "a.christiansen",
+      "clave": "1234"
     },
     {
-      "id": 5,
-      "idBebida": 2,
-      "cc": "950 cc",
-      "valor": "$2990"
+      "alumId": 7,
+      "nombreAlumno": "Felipe Cofre",
+      "userId": " f.cofree",
+      "clave": "1234"
     },
     {
-      "id": 6,
-      "idBebida": 2,
-      "cc": "1500 cc",
-      "valor": "$15990"
+      "alumId": 8,
+      "nombreAlumno": "Felix Diaz",
+      "userId": "feli.diazs",
+      "clave": "1234"
     },
     {
-      "id": 7,
-      "idBebida": 3,
-      "cc": "1 LT",
-      "valor": "$5990"
+      "alumId": 9,
+      "nombreAlumno": "Dabrian Labraña",
+      "userId": "dab.labrana",
+      "clave": "1234"
     },
     {
-      "id": 8,
-      "idBebida": 3,
-      "cc": "3 LT",
-      "valor": "$15990"
+      "alumId": 10,
+      "nombreAlumno": "Cristian Martinez",
+      "userId": "crist.martinezg",
+      "clave": "1234"
+    },
+    {
+      "alumId": 11,
+      "nombreAlumno": "Samuel Michea",
+      "userId": "sa.michea",
+      "clave": "1234"
+    },
+    {
+      "alumId": 12,
+      "nombreAlumno": "Ricardo Plaza",
+      "userId": "ri.plazar",
+      "clave": "1234"
+    },
+    {
+      "alumId": 13,
+      "nombreAlumno": "Ignacio Quiroz",
+      "userId": "igna.quiroz",
+      "clave": "1234"
+    },
+    {
+      "alumId": 14,
+      "nombreAlumno": "Antonio Quiroz",
+      "userId": "ant.quiroz",
+      "clave": "1234"
+    },
+    {
+      "alumId": 15,
+      "nombreAlumno": "Montserrat Ramirez",
+      "userId": "mo.ramirezp",
+      "clave": "1234"
+    },
+    {
+      "alumId":16 ,
+      "nombreAlumno": "Hector Rioseco",
+      "userId": "he.rioseco",
+      "clave": "1234"
+    },
+    {
+      "alumId": 17,
+      "nombreAlumno": "Ncolas Roa",
+      "userId": "ni.roag",
+      "clave": "1234"
+    },
+    {
+      "alumId": 18,
+      "nombreAlumno": "Aroldo Silva",
+      "userId": "aro.silva",
+      "clave": "1234"
+    },
+    {
+      "alumId": 19,
+      "nombreAlumno": "Mario Soto",
+      "userId": "mari.sotoo",
+      "clave": "1234"
+    },
+    {
+      "alumId": 20,
+      "nombreAlumno": "Ricardo Vargas",
+      "userId": "ri.vargasa",
+      "clave": "1234"
+    },
+    {
+      "alumId": 21,
+      "nombreAlumno": "Matias Zamorano",
+      "userId": "mat.zamoranoc",
+      "clave": "1234"
     }
   ]
 }
