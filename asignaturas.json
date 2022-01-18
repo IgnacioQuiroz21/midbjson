@@ -1,0 +1,16 @@
+{
+  "asignatura": [
+    {
+      "asigId": 1,
+      "nombreAsignatura": "Modelamiento BD"
+    },
+    {
+      "asigId": 2,
+      "nombreAsignatura": "Consulta BD"
+    },
+    {
+      "asigId": 3,
+      "nombreAsignatura": "Programacion BD"
+    }
+  ]
+}
