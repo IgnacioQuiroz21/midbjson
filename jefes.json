@@ -1,0 +1,16 @@
+{
+  "jefes": [
+    {
+      "nombre": Kzarka,
+      "hora": "15:15:00"
+    },
+    {
+      "nombre": Garmoth,
+      "hora": "19:30:00"
+    },
+    {
+      "nombre": Kutum,
+      "hora": "23:15:00"
+    }
+  ]
+}
